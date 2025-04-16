@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61", "setuptools-git-versioning>=2,<3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trustify"
+version = "1.1.1"
+description = "Python Parser for TRUST datasets"
+authors = [
+  {email = "trust@cea.fr"}
+]
+dependencies = [
+  "pydantic",
+]

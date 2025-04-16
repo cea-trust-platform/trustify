@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: trustify
+Version: 1.1.1
+Summary: Python Parser for TRUST datasets
+Author-email: trust@cea.fr
+Requires-Dist: pydantic

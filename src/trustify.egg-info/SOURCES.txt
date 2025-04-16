@@ -1,0 +1,17 @@
+pyproject.toml
+src/trustify/__init__.py
+src/trustify/base.py
+src/trustify/hacks.py
+src/trustify/misc_utilities.py
+src/trustify/trad2_pydantic.py
+src/trustify/trad2_utilities.py
+src/trustify/trust_parser.py
+src/trustify.egg-info/PKG-INFO
+src/trustify.egg-info/SOURCES.txt
+src/trustify.egg-info/dependency_links.txt
+src/trustify.egg-info/requires.txt
+src/trustify.egg-info/top_level.txt
+test/test_generate_pydantic.py
+test/test_rw_all_datasets.py
+test/test_rw_elementary.py
+test/test_rw_full_datasets.py
